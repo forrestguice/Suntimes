@@ -1,0 +1,50 @@
+languageCode = 'en-us'
+title = 'Suntimes'
+description = 'An Android app that displays sunlight and moonlight times.'
+theme = 'hugo-theme-relearn'
+
+[params.author]
+  name = 'Forrest Guice'
+
+[params]
+  themeVariant = ['neon', 'dark-theme', 'light-theme']
+  disableInlineCopyToClipBoard = true
+  disableShortcutsTitle = true
+  disableSearch = false
+  alwaysopen = false
+
+[languages]
+  [languages.en]
+    [languages.en.params]
+      landingPageName = "<span style='font-size:1.5rem'><b>Suntimes</b></span>"
+
+[markup]
+  [markup.highlight]
+    lineNumbersInTable = false
+    noClasses = false
+    hl_inline = false
+
+  [markup.goldmark.renderer]
+    unsafe = true    # needed for mixed .html/.md
+
+[outputs]
+  home = ['html', 'rss', 'search', 'searchpage']
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']
+
+[menu]
+  [[menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub"
+    url = 'https://github.com/forrestguice/SuntimesWidget'
+    weight = 10
+
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-file-contract'></i> License"
+    url = 'license/'
+    weight = 40
+
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-lock'></i> Privacy"
+    url = 'privacy/'
+    weight = 50
+
