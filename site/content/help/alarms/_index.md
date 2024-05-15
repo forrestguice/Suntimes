@@ -1,9 +1,9 @@
 +++
 archetype = "chapter"
 title = "Alarms"
-weight = 2
+weight = 3
 +++
 
-Suntimes Alarms is an alarm clock with support for daily repeating alarms and notifications.
+Suntimes Alarms is a sunlight aware alarm clock with support for daily repeating alarms and notifications.
 
 {{% children sort="weight" %}}

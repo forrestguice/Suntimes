@@ -1,0 +1,6 @@
+{{- $_hugo_config := `{ "version": 1 }` }}
+{{- partial "shortcodes/ic.html" (dict
+  "page"    .Page
+  "icon"    (.Get "icon" | default (.Get 0))
+  "title"   (.Get "title" | default (.Get 1))
+) }}

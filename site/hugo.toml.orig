@@ -7,7 +7,7 @@ theme = 'hugo-theme-relearn'
   name = 'Forrest Guice'
 
 [params]
-  themeVariant = ['neon', 'dark-theme', 'light-theme']
+  themeVariant = ['dark-theme', 'light-theme']
   disableInlineCopyToClipBoard = true
   disableShortcutsTitle = true
   disableSearch = false

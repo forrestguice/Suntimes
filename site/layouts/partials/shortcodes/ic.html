@@ -1,0 +1,14 @@
+{{- $page := .page }}
+{{- if and (not $page) .context }}
+  {{- $page = .context }}
+  {{- warnf "%q: DEPRECATED parameter 'context' for shortcode 'icon' found, use 'page' instead; see https://mcshelby.github.io/hugo-theme-relearn/basics/migration#5180" $page.File.Filename }}
+{{- end }}
+{{- $icon := .icon | default "" }}
+{{- $icon = trim $icon " " }}
+{{- $title := .title | default "" }}
+{{- $title = trim $title " " }}
+{{- with $page }}
+  {{- if $icon -}}
+  <span title="{{ $title }}"><i class="{{ $icon }}"></i></span>
+  {{- end }}
+{{- end }}

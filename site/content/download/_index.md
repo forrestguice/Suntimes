@@ -8,7 +8,7 @@ disableNextPrev = true
 +++
 
 ## Install with F-Droid
-**Suntimes** is available from [F-Droid](https://f-droid.org), an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+**Suntimes** is available from [F-Droid](https://f-droid.org), an installable catalog of FOSS (Free and Open Source Software) applications for the Android platform.
 
 <a href="https://f-droid.org/repository/browse/?fdid=com.forrestguice.suntimeswidget" target="_blank"><img src="{{< resource url="/images/get-it-on-fdroid.png" >}}" alt="Get it on F-Droid" height="68" /></a>
 
