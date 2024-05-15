@@ -1,2 +1,4 @@
 stage-github/*
 stage-codeberg/*
+site/public/*
+*.bak
