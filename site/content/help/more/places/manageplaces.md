@@ -19,7 +19,7 @@ weight = 2
 
 `Suntimes -> Settings -> Places` `-> Manage Places` to open the {{% ic "ic-place" "place" %}} **places list**.
 
-The **places list** can also be reached by tapping {{% ic "ic-place" "Places" %}} when [selecting a place](selectplace).
+The **places list** can also be reached by tapping {{% ic "ic-place" "Places" %}} when [selecting a place](/help/configuration/selectplace).
 
 
 {{% children sort="weight" %}}

@@ -72,7 +72,7 @@ It is also possible to export or import events by creating or restoring a [backu
 
 Suntimes supports additional events through [add-ons](/help/addons).
 
-For example, [Interval Midpoints](/addons/intervalmidpoints) can be used to schedule alarms between events (at calculated **midpoints**), and the [Natural Hour](/addons/naturalhour) app can be used to schedule alarms using **roman time**.
+For example, [Interval Midpoints](/addons) can be used to schedule alarms between events (at calculated **midpoints**), and the [Natural Hour](/addons) app can be used to schedule alarms using **roman time**.
 
 ![Interval Midpoints](images/intervalmidpoints.png?width=250px&classes=inline "Interval Midpoints")
 ![Natural Hour](images/naturalhour.png?width=250px&classes=inline "Natural Hour")

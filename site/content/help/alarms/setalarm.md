@@ -7,7 +7,7 @@ weight = 1
 ![Add Alarm Dialog](../images/suntimes-addalarm-event.png?width=350px)
 
 * [Alarm Types](#alarm-types)
-* [Schedule by Time](#scheudle-by-time)
+* [Schedule by Time](#schedule-by-time)
 * [Schedule by Event](#schedule-by-event)
 * [Show Alarm Time](#show-alarm-time)
 

@@ -173,7 +173,7 @@ Tap `On Dismiss` {{% ic "ic-challenge" "challenge" %}} to change the **dismiss c
 
 
 {{% notice style="tip" %}}
-[Add-ons](/help/addons) can provide additional **challenges**; e.g. [Suntimes NFC](/addons/suntimesnfc) can be used to dismiss alarms using NFC tags.
+[Add-ons](/help/addons) can provide additional **challenges**; e.g. [Suntimes NFC](/help/addons) can be used to dismiss alarms using NFC tags.
 {{% /notice %}}
 
 

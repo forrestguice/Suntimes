@@ -8,8 +8,8 @@ weight = 3
 
 * [Alarm List](#alarm-list)
 * [Select, Deselect](#select-deselect)
-* [Add Alarm](#add)
-* [Edit Alarm](#edit)
+* [Add Alarm](#add-alarm)
+* [Edit Alarm](#edit-alarm)
 * [Delete, Clear](#delete-clear)
 * [Snooze, Dismiss](#snooze-dismiss)
 * [Sort Alarms](#sort-alarms)
