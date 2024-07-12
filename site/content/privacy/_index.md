@@ -1,6 +1,5 @@
 +++
 title = 'Privacy'
-date = 2024-03-16T17:33:09-07:00
 draft = false
 disableNextPrev = true
 
@@ -24,11 +23,14 @@ The app uses the following permissions..
 |---|---|---|
 |ACCESS_COARSE_LOCATION|To get current location.|v0.1.0|
 |ACCESS_FINE_LOCATION|To get current location (GPS).|v0.1.0|
+|ACCESS_NOTIFICATION_POLICY|To enable do-not-disturb at bedtime.|v0.16.0|
 |BOOT_COMPLETED|To restore active alarms after reboot.|v0.11.0|
+|FOREGROUND_SERVICE|To display alarms and notifications.|v0.16.0|
 |POWER_OFF_ALARM|To wake the device from the power off state.|v0.14.0|
 |READ_EXTERNAL_STORAGE|To play alarm sounds located on the SD card.|v0.11.5, v0.13.8 (api<=18)|
-|SET_ALARM|To interact with the system Alarm Clock app.|v0.1.0|
 |REQUEST_IGNORE_BATTERY_OPTIMIZATIONS|To help ensure reliable delivery of alarms.|v0.14.11|
+|SET_ALARM|To interact with the system Alarm Clock app.|v0.1.0|
+|USE_FULL_SCREEN_INTENT|To display alarms over the lock screen.|v0.16.0|
 |WRITE_EXTERNAL_STORAGE|To export data (places, themes, etc) to file.|v0.2.2 (api<=18)|
 
 ----
@@ -51,4 +53,4 @@ Versions `0.9.*` of the app contained the following permissions (removed in `v0.
 |WRITE_SYNC_SETTINGS|To interact with the Calendar app (add/remove custom calendars).|v0.9.0|
 
 ----
-*Last Modified: 2024-03-16*
+*Last Modified: 2024-07-11*
