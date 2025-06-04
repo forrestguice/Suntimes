@@ -3,7 +3,7 @@ archtype = "default"
 linkTitle = "Suntimes Calendars"
 title = "Suntimes Calendars"
 tags = "add-on"
-weight = 1
+weight = 2
 +++
 
 An add-on that supplies events to the Calendar app. 

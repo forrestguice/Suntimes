@@ -20,4 +20,5 @@ This user manual is published to:
 
 ### Versions
 
-* `v0.1.0` *(latest)*, **2024-05-01**, written for `Suntimes v0.15.14`.
+* `v0.1.1`, **2025-06-03**; minor updates; adds pages for `Natural Hour` and `Suntimes Calendars`.
+* `v0.1.0`, **2024-05-01**, written for `Suntimes v0.15.14`.
