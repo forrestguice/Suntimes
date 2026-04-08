@@ -23,23 +23,27 @@ The app uses the following permissions..
 |---|---|---|
 |ACCESS_COARSE_LOCATION|To get current location.|v0.1.0|
 |ACCESS_FINE_LOCATION|To get current location (GPS).|v0.1.0|
+|ACCESS_LOCATION_EXTRA_COMMANDS|To reload AGPS data.|v0.17.0|
 |ACCESS_NOTIFICATION_POLICY|To enable do-not-disturb at bedtime.|v0.16.0|
 |BOOT_COMPLETED|To restore active alarms after reboot.|v0.11.0|
 |FOREGROUND_SERVICE|To display alarms and notifications.|v0.16.0|
 |POWER_OFF_ALARM|To wake the device from the power off state.|v0.14.0|
-|READ_EXTERNAL_STORAGE|To play alarm sounds located on the SD card.|v0.11.5, v0.13.8 (api<=18)|
+|POST_NOTIFICATIONS|To display alarms and notifications.|v0.17.0|
+|~~READ_EXTERNAL_STORAGE~~|To play alarm sounds located on the SD card.|v0.11.5, v0.13.8 (api<=18)|
 |REQUEST_IGNORE_BATTERY_OPTIMIZATIONS|To help ensure reliable delivery of alarms.|v0.14.11|
 |SET_ALARM|To interact with the system Alarm Clock app.|v0.1.0|
+|SCHEDULE_EXACT_ALARM|To display alarms and notifications.|v0.17.0|
 |USE_FULL_SCREEN_INTENT|To display alarms over the lock screen.|v0.16.0|
-|WRITE_EXTERNAL_STORAGE|To export data (places, themes, etc) to file.|v0.2.2 (api<=18)|
+|~~WRITE_EXTERNAL_STORAGE~~|To export data (places, themes, etc) to file.|v0.2.2 (api<=18)|
+|VIBRATE|To display alarms and notifications.|v0.11.0|
 
 ----
 
-The app declares the `suntimes.permission.READ_CALCULATOR` permission and uses it to secure add-ons. The app uses this permission itself (since `v0.13.2`), and requires that add-ons request this permission during installation. 
+The app declares the `suntimes.permission.READ_CALCULATOR` and `suntimes.permission.ADDON` permissions and uses these to secure add-ons. The app uses the `READ_CALCULATOR` permission itself (since `v0.13.2`), and requires that add-ons request this permission during installation. 
 
 ----
 
-Version `v0.13.8` removed the `READ_EXTERNAL_STORAGE` permission for `api≥19` (replaced with URI permissions).
+Version `v0.13.8` removed the `READ_EXTERNAL_STORAGE` and `WRITE_EXTERNAL_STORAGE` permissions for `api≥19` (Android 5+) (replaced with URI permissions).
 
 ----
 
@@ -53,4 +57,4 @@ Versions `0.9.*` of the app contained the following permissions (removed in `v0.
 |WRITE_SYNC_SETTINGS|To interact with the Calendar app (add/remove custom calendars).|v0.9.0|
 
 ----
-*Last Modified: 2024-07-11*
+*Last Modified: 2026-04-08*
