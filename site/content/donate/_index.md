@@ -13,6 +13,3 @@ disableNextPrev = true
 ## Pay as you feel ##
 
 {{% donate %}}
-{{% expand "More information..." %}}
-{{% donate-details %}}
-{{% /expand %}}

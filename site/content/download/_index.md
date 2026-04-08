@@ -21,9 +21,6 @@ These repositories [can be added](https://f-droid.org/en/tutorials/add-repo/) to
 
 ## Pay as you feel
 {{% donate %}}
-{{% expand "More information..." %}}
-{{% donate-details %}}
-{{% /expand %}}
 
 ## License
 
