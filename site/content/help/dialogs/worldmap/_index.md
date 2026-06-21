@@ -19,10 +19,12 @@ weight = 4
 
 * Basic
 * Blue Marble
+* Mercator
+* Mercator equal-area
+* Van der Grinten
 * Polar (North)
 * Polar (South)
-* Azimuthal Equidistant (Phoenix)
-
+* Azimuthal Equidistant (North America)
 
 ---
 ### Map Options 

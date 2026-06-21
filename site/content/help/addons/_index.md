@@ -15,5 +15,7 @@ weight = 6
   <tr><td><a href="suntimesnfc"><img style="float:left; margin-right:12px" src="images/ic_suntimesnfc.png" hspace="8" height="64" /></a> <a href="suntimesnfc">Suntimes NFC</a><br />An NFC Add-on for Suntimes Alarms; dismiss alarms with an NFC tag.</td</tr>
 
   <tr><td><a href="intervalmidpoints"><img style="float:left; margin-right:12px" src="images/ic_imidpoints.png" hspace="8" height="64" /></a> <a href="intervalmidpoints">Interval Midpoints</a><br />A midpoint calculator add-on for Suntimes Alarms; schedule alarms for event midpoints.</td</tr>
+
+  <tr><td><a href="mappack"><img style="float:left; margin-right:12px" src="images/ic_mappack.png" hspace="8" height="64" /></a> <a href="mappack">Suntimes Map Pack</a><br />A world map background expansion pack for Suntimes.</td</tr>
 </table>
 
