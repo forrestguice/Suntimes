@@ -321,7 +321,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Suntimes \u003e Help \u003e App Dialogs",
-    "content": " Maps Map Options Play Share (Record) View Date Set Background Maps Basic Blue Marble Polar (North) Polar (South) Azimuthal Equidistant (Phoenix) Map Options Use : -\u003e Options to change the map’s options.\nSunlight (shadow) Moonlight Location (dot) Graticule (minor grid lines) Major Lines (equator, tropics, arctic circle) Note The map options are also applied to home screen widgets.\nPlay (animation) Suntimes can animate the world map at different rates.\n15m the frames are 15 minutes apart. 1d the frames are 24 hours apart. Tap and to step through frames one at a time.\nTap to play the animation, to pause it, and to reset to the current moment.\nTip Long pressing the map will also play the animation, and tapping it again will pause.\nShare (Record) Suntimes can share individual frames, or record all frames in an animation.\nUse : -\u003e Share to share the current map view.\nTo share an animation, long press to start recording. When finished, tap (where the play button was previously) to share the frames (as .zip).\nView Date Use : -\u003e View date to open other dialogs at the selected date/time.\nSet Background Suntimes can be configured to display a custom world map background.\nDownload Backgrounds Creating Backgrounds Use : -\u003e Center -\u003e Set Background to change the map’s background image.\n",
+    "content": " Maps Map Options Play Share (Record) View Date Set Background Maps Basic Blue Marble Mercator Mercator equal-area Van der Grinten Polar (North) Polar (South) Azimuthal Equidistant (North America) Map Options Use : -\u003e Options to change the map’s options.\nSunlight (shadow) Moonlight Location (dot) Graticule (minor grid lines) Major Lines (equator, tropics, arctic circle) Note The map options are also applied to home screen widgets.\nPlay (animation) Suntimes can animate the world map at different rates.\n15m the frames are 15 minutes apart. 1d the frames are 24 hours apart. Tap and to step through frames one at a time.\nTap to play the animation, to pause it, and to reset to the current moment.\nTip Long pressing the map will also play the animation, and tapping it again will pause.\nShare (Record) Suntimes can share individual frames, or record all frames in an animation.\nUse : -\u003e Share to share the current map view.\nTo share an animation, long press to start recording. When finished, tap (where the play button was previously) to share the frames (as .zip).\nView Date Use : -\u003e View date to open other dialogs at the selected date/time.\nSet Background Suntimes can be configured to display a custom world map background.\nDownload Backgrounds Creating Backgrounds Use : -\u003e Center -\u003e Set Background to change the map’s background image.\n",
     "description": "",
     "tags": null,
     "title": "World Map",
@@ -408,6 +408,14 @@ var relearn_search_index = [
     "uri": "/Suntimes/help/more/places/index.html"
   },
   {
+    "breadcrumb": "Suntimes \u003e Help \u003e Add-ons",
+    "content": "A world map background expansion pack for Suntimes.\nSuntimes Map Pack can be installed from:\nhttps://forrestguice.codeberg.page/SuntimesApps/repo https://forrestguice.github.io/SuntimesApps/repo The issue tracker can be used to report bugs or request features.\nSuntimes Map Pack source code is available under GPLv3.\nHelp Use : -\u003e Day and : -\u003e Night from the World Map dialog to select from images that match the current map projection.\n",
+    "description": "",
+    "tags": "add-on",
+    "title": "Suntimes Map Pack",
+    "uri": "/Suntimes/help/addons/mappack/index.html"
+  },
+  {
     "breadcrumb": "Suntimes \u003e Help",
     "content": " Settings Events Places Actions Data Nightly Debug Documentation ",
     "description": "",
@@ -441,7 +449,7 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Suntimes \u003e Help \u003e More",
-    "content": "This user manual (and other documentation) is maintained at https://github.com/forrestguice/Suntimes/issues.\nYou can help improve it by reporting typos, dead links, and other errors.\nMirrors This user manual is published to:\nhttps://forrestguice.codeberg.page/Suntimes/ https://forrestguice.github.io/Suntimes/ Versions v0.1.2, 2026-04-08; minor updates; adds nightly debug info; adds past version info; adds pages for SuntimesNFC, Interval Midpoints, and Solunar Periods; updates privacy info to Suntimes v0.17.0. v0.1.1, 2025-06-03; minor updates; adds pages for Natural Hour and Suntimes Calendars. v0.1.0, 2024-05-01, written for Suntimes v0.15.14. ",
+    "content": "This user manual (and other documentation) is maintained at https://github.com/forrestguice/Suntimes/issues.\nYou can help improve it by reporting typos, dead links, and other errors.\nMirrors This user manual is published to:\nhttps://forrestguice.codeberg.page/Suntimes/ https://forrestguice.github.io/Suntimes/ Versions v0.1.3, 2026-06-22; minor updates; adds page for Suntimes Map Pack. v0.1.2, 2026-04-08; minor updates; adds nightly debug info; adds past version info; adds pages for SuntimesNFC, Interval Midpoints, and Solunar Periods; updates privacy info to Suntimes v0.17.0. v0.1.1, 2025-06-03; minor updates; adds pages for Natural Hour and Suntimes Calendars. v0.1.0, 2024-05-01, written for Suntimes v0.15.14. ",
     "description": "",
     "tags": null,
     "title": "Documentation",
