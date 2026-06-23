@@ -13,6 +13,7 @@ Nightly debug versions are available for testing untagged commits. These "nightl
 * [https://forrestguice.github.io/SuntimesNFC-nightly/fdroid/repo/](https://forrestguice.github.io/SuntimesNFC-nightly/fdroid/repo/)
 * [https://forrestguice.github.io/SolunarPeriods-nightly/fdroid/repo/](https://forrestguice.github.io/SolunarPeriods-nightly/fdroid/repo/)
 * [https://forrestguice.github.io/SuntimesCalendars-nightly/fdroid/repo/](https://forrestguice.github.io/SuntimesCalendars-nightly/fdroid/repo/)
+* [https://forrestguice.github.io/SuntimesMapPack-nightly/fdroid/repo/](https://forrestguice.github.io/SuntimesMapPack-nightly/fdroid/repo/)
 
 Notes: 
 * Each repository contains a single nightly app. 
