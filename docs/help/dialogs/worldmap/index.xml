@@ -13,16 +13,17 @@
       <link>https://forrestguice.github.io/Suntimes/help/dialogs/worldmap/downloadbackgrounds/index.html</link>
       <pubDate>Sat, 16 Mar 2024 16:16:14 -0700</pubDate>
       <guid>https://forrestguice.github.io/Suntimes/help/dialogs/worldmap/downloadbackgrounds/index.html</guid>
-      <description>To use backgrounds&amp;hellip; Store full-sized images somewhere on your device, then open with Set background. Suntimes uses URI permissions to access images stored on the SD card.
-Projection Map Backgrounds (click for full-size image) Equidistant Rectangular Equidistant Azimuthal Made with Natural Earth. https://www.naturalearthdata.com/about/terms-of-use/
-NASA Earth Observatory. Blue Marble: Next Generation. https://visibleearth.nasa.gov/view_cat.php?categoryID=1484</description>
+      <description>To use backgrounds: store full-sized images somewhere on your device, then open with Set background. Suntimes uses URI permissions to access images stored on the SD card.
+Map Collection Suntimes Map Pack provides a large collection of background images. This addon makes backgrounds available automatically, however they can also be downloaded individually.
+Samples The following backgrounds were created by reprojecting Blue Marble and Natural Earth data using QGIS.
+Projection Map Backgrounds (click for full-size image) Equidistant Rectangular Equidistant Azimuthal Made with Natural Earth.</description>
     </item>
     <item>
       <title>Creating Backgrounds</title>
       <link>https://forrestguice.github.io/Suntimes/help/dialogs/worldmap/createbackgrounds/index.html</link>
       <pubDate>Sat, 16 Mar 2024 16:15:52 -0700</pubDate>
       <guid>https://forrestguice.github.io/Suntimes/help/dialogs/worldmap/createbackgrounds/index.html</guid>
-      <description>The background image should be a png or jpeg, with recommended dimensions 1024 x 512 or 1024 x 1024 or greater (will be scaled to fit the screen). The default maps use vector data from Natural Earth, and raster data from Blue Marble: Next Generation. The default maps use a white foreground (landmasses), and transparent background (ocean). The final coloring is determined by the app&amp;rsquo;s theme. The graticule and other markings are drawn behind the background image (requires transparency).</description>
+      <description>Requirements Background images should be a png or jpeg with recommended dimensions 1024 x 512 or 1024 x 1024 or greater (will be scaled to fit the screen). Background images must have the appropriate map projection, center, and aspect ratio to align correctly. World Map Aspect Projection Center proj4 Basic 2:1 Equidistant Rectangular [0,0] +proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +a=6371007 +b=6371007 +units=m +no_defs Polar [north] 1:1 Equidistant Azimuthal [90,0] +proj=aeqd +lat_0=90 +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs Polar [south] 1:1 Equidistant Azimuthal [-90,0] +proj=aeqd +lat_0=-90 +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs Azimuthal Equidistant 1:1 Equidistant Azimuthal [LAT,LON] +proj=aeqd +lat_0=LAT +lon_0=LON +x_0=0 +y_0=0 +a=6371000 +b=6371000 +units=m +no_defs where LAT and LON define the center of the projection.</description>
     </item>
   </channel>
 </rss>
