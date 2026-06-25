@@ -17,6 +17,11 @@ Suntimes includes a variety of
 ![Date Widget (1x1)](images/datewidget_1x1_preview.png?width=100px&classes=inline "Date Widget")
 ![Clock Widget (3x1)](images/clockwidget_3x1_preview.png?width=100px&classes=inline "Clock Widget")
 
+### Alarm
+
+![Alarm Widget (1x1)](images/alarmwidget_1x1_preview.png?width=100px&classes=inline "Alarm Widget")
+![Alarm Widget (2x2)](images/alarmwidget_2x2_preview.png?width=100px&classes=inline "Alarm Widget (2x2)")
+![Alarm Widget (3x2)](images/alarmwidget_3x2_preview.png?width=100px&classes=inline "Alarm Widget (3x2)")
 
 ### Sun
 
