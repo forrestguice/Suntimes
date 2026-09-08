@@ -1,4 +1,3 @@
-
 ## Suntimes (static site)
 
 This repository is used to serve the static website site for [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget).
