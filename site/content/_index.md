@@ -44,4 +44,5 @@ To create an application that is:
 4) **accessible**: usable by a wide range of people with individual capability.
 5) **localized**: support for multiple languages, rules, and formats.
 6) **compatible**: runs on the widest range of devices possible (support for older devices).
+7) **humane**: crafted with respect for human dignity and our shared environment.
 
