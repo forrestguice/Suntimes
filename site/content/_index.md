@@ -46,3 +46,12 @@ To create an application that is:
 6) **compatible**: runs on the widest range of devices possible (support for older devices).
 7) **humane**: crafted with respect for human dignity and our shared environment.
 
+
+<div style="display: flex;">
+
+  <a href='/Suntimes/contributing/#certificate-of-origin'><img style="margin: 0px 8px 0px 8px" src="images/created_with_human_intelligence1.png" height="96" title="introvertdrawingclub.com/p/human-intelligence-badge :: This badge is not anti-tech. It's pro-human." alt="Created with Human Intelligence" /></a>
+
+  <a href='/Suntimes/contributing/#certificate-of-origin'><img style="margin: 23px 8px 0px 8px" src="images/entirely_made_by_humans.png" height="56" title="https://github.com/retcon85/retro-made-by-humans-badges" alt="Entirely Made by Humans" /></a>
+
+</div>
+

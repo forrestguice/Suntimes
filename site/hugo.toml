@@ -48,4 +48,10 @@ theme = 'hugo-theme-relearn'
     url = 'privacy/'
     weight = 50
 
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-file-contract'></i> Contribute"
+    url = 'contributing/'
+    weight = 60
+
+
 baseURL = 'http://localhost:1313/'
