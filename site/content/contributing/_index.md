@@ -23,9 +23,8 @@ disableNextPrev = true
 Spread the word. Share this app. Tell your friends. Let others know about [F-Droid](https://f-droid.org/en/packages/) and the software that's available there.
 
 ### Donations
-Does this app provide value? Suntimes is available gratis, but if it has proven its value, please pay as you feel.
 
-* <a href="https://liberapay.com/forrestguice">Liberapay</a>
+{{% donate1 %}}
 
 ### Bug Reports and Feature Requests
 Use the [issue tracker](https://github.com/forrestguice/SuntimesWidget/issues) to submit a bug report or feature request.

@@ -33,7 +33,7 @@ disableNextPrev = true
 
 
 ## Donate
-{{% donate %}}
+{{% donate1 %}}
 
 ## Philosophy
 To create an application that is:
